@@ -203,7 +203,8 @@
 
   .visible-links {
     display: table;
-    font-size: $type-size-4
+    font-size: $type-size-4;
+
     li {
       display: table-cell;
       vertical-align: middle;
