@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<div style="height: 128px;">
-  <img align="left" src="/images/tencentailab_logo.png" style="height: inherit;">
+<div style="height: 100px;">
+  <a href="https://ai.tencent.com/" target="_blank"><img align="left" src="/images/tencentailab_logo.png" style="height: inherit;"></a>
   <img align="right" src="/images/CUHK.svg" style="height: inherit;">
 </div>
 
