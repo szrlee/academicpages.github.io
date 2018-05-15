@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="height: 100px">
+<div style="height: 100px;">
   <img align="left" src="/images/tencentailab_logo.png" />
   <img align="right" src="/images/CUHK.svg" />
 </div>
