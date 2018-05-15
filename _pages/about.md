@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="height: 100px">
-  <img align="left" src="1.jpg" src="/images/tencentailab_logo.png" />
+  <img align="left" src="/images/tencentailab_logo.png" />
   <img align="right" src="/images/CUHK.svg" />
 </div>
 
