@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="height: 100px;">
-  <a href="https://ai.tencent.com/" target="_blank"><img align="left" src="/images/tencentailab_logo.png" style="height: inherit;"></a>
+  <a href="https://ai.tencent.com/" target="_blank" style="height: inherit;"><img align="left" src="/images/tencentailab_logo.png" style="height: inherit;"></a>
   <img align="right" src="/images/CUHK.svg" style="height: inherit;">
 </div>
 
