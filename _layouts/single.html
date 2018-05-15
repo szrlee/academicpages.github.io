@@ -37,20 +37,20 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ page.type }} </strong> , <i>{{ page.venue }}</i>, <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%Y" }}</time></p>
         {% elsif page.venue and page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ default: "Published" }}</strong> in <i>{{ page.venue }}</i>, <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%Y" }}</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published</strong> in <i>{{ page.venue }}</i>, <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%Y" }}</time></p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
              
-        {% if post.citation and post.paperurl and post.external %}
-          <p>{{ post.citation }} <a href="{{ post.paperurl }}"><u>Download PDF</u></a> <a href="{{ post.external }}"><u>View External Link</u></a> </p>
-        {% elsif post.citation and post.paperurl %}
-          <p>{{ post.citation }} <a href="{{ post.paperurl }}"><u>Download PDF</u></a></p>
-        {% elsif post.citation %}
-          <p>{{ post.citation }} </p>
-        {% elsif post.paperurl %}
-          <p><a href=" {{ post.paperurl }} "><u>Download PDF</u></a></p>
+        {% if page.citation and page.paperurl and page.external %}
+          <p>{{ page.citation }} <a href="{{ page.paperurl }}"><u>Download PDF</u></a> <a href="{{ page.external }}"><u>View External Link</u></a> </p>
+        {% elsif page.citation and page.paperurl %}
+          <p>{{ page.citation }} <a href="{{ page.paperurl }}"><u>Download PDF</u></a></p>
+        {% elsif page.citation %}
+          <p>{{ page.citation }} </p>
+        {% elsif page.paperurl %}
+          <p><a href=" {{ page.paperurl }} "><u>Download PDF</u></a></p>
         {% endif %}
     
         </header>
