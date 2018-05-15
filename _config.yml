@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Richard Yingru Li"
-  avatar           : "richard.jpg"
-  bio              : "PhD Candidate in Artificial Intelligence, the Chinese University of Hong Kong, affiliated with Tencent AI Lab"
+  avatar           : "richard-small.png"
+  bio              : "PhD Student, CUHK & Tencent AI Lab"
   location         : "Hong Kong & Shenzhen"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=OOhB7fcAAAAJ&hl=en"
@@ -93,21 +93,21 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "richardlyr"
+  facebook         : "RichardYRLi"
   foursquare       :
   github           : "szrlee"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "yingru-li"
+  linkedin         : "RichardYRLi"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "richardlyr"
+  twitter          : "RichardYRLi"
   vine             :
   weibo            :
   xing             :
