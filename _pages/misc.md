@@ -9,4 +9,4 @@ redirect_from:
 
 ## Useful links
 
-* [AI Conferences Deadlines](https://aideadline.es)
+* [AI Conferences Deadlines](https://aideadlin.es)
