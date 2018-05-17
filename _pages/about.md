@@ -55,3 +55,9 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+Schedule
+------
+Please schedule meeting with my google calendar account: szrlee [a] gmail [dot] com
+
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;hl=en&amp;bgcolor=%23FFFFFF&amp;src=szrlee%40gmail.com&amp;color=%23AB8B00&amp;ctz=Asia%2FShanghai" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
