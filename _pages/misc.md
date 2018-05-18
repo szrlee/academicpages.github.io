@@ -10,3 +10,4 @@ redirect_from:
 ## Useful links
 
 * [AI Conferences Deadlines](https://aideadlin.es)
+* [Deep Learning Monitor](https://deeplearn.org)
