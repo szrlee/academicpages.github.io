@@ -1,7 +1,7 @@
 ﻿---
 layout: archive
-title: "Welcome"
-permalink: /welcome/
+title: "Stack Edit Markdown Example"
+permalink: /stackedit/
 author_profile: true
 ---
 
