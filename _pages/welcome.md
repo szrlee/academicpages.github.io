@@ -155,5 +155,3 @@ graph LR
     B-->C[fa:fa-ban forbidden]
     B-->D(fa:fa-spinner);
 </div>
-
-<script src="https://unpkg.com/mermaid@8.0.0-rc.8/dist/mermaid.min.js"></script>
